@@ -1,8 +1,8 @@
 <a href="https://github.com/tonyredondo/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tonyredondo&count_private=true" height="160" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tonyredondo&count_private=true" height="155" />
 </a>
 <a href="https://github.com/tonyredondo/">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonyredondo&layout=compact" height="160" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonyredondo&layout=compact" height="155" />
 </a>
 
 <!--

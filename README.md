@@ -1,4 +1,9 @@
-### Hi there 👋
+<a href="https://github.com/tonyredondo/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tonyredondo&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/tonyredondo/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonyredondo&layout=compact" />
+</a>
 
 <!--
 **tonyredondo/tonyredondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

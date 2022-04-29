@@ -1,7 +1,6 @@
 <a href="https://github.com/tonyredondo/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tonyredondo&count_private=true&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tonyredondo&count_private=true" />
 </a>
-<br/><br/>
 <a href="https://github.com/tonyredondo/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonyredondo&layout=compact" />
 </a>
